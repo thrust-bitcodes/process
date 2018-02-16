@@ -14,7 +14,6 @@ thrust install process
 ```js
 const process = require('process');
 
-
 process.exec('ls -lia');
 ```
 
