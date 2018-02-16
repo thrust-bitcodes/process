@@ -1,0 +1,11 @@
+{
+    "description": "Bridge to Java for Execute commands on OS.",
+    "name": "process",
+    "path": "index.js",
+    "version": "0.0.1",
+    "author": "Tarcísio Abadio de Magalhães Júnior",
+    "dependencies": {
+      "bitcodes": [],
+      "jars": []
+    }
+  }
